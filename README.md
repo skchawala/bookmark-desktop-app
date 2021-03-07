@@ -1,4 +1,11 @@
 # bookmark-desktop-app
+
+## build and run locally
+1. $ git clone https://github.com/skchawala/bookmark-desktop-app.git
+2. $ cd bookmark-desktop-app
+3. $ npm i
+4. $ npm start
+
 bookmark desktop app created using electronjs
 
 Screenshot 2021-03-07 at 8.33.12 PM![image](https://user-images.githubusercontent.com/11574135/110244427-a2487400-7f84-11eb-8a81-4ac407480507.png)
