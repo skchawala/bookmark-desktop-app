@@ -56,7 +56,7 @@ module.exports = (appWin)=>{
                 {
                     label:'Learn More',
                     click:()=>{
-                        shell.openExternal('https://github.com/skchawala/bookmark')
+                        shell.openExternal('https://github.com/skchawala/bookmark-desktop-app.git')
                     }
                 }
             ]
