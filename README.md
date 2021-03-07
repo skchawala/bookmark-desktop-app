@@ -1,6 +1,6 @@
 # bookmark-desktop-app
 
-## build and run locally
+##### build and run locally
 1. $ git clone https://github.com/skchawala/bookmark-desktop-app.git
 2. $ cd bookmark-desktop-app
 3. $ npm i
