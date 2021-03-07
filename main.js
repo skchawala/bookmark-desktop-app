@@ -34,7 +34,7 @@ function createWindow () {
 
     mainWindow.loadFile('renderer/main.html')
 
-    mainWindow.webContents.openDevTools()
+    //mainWindow.webContents.openDevTools()
 
     mainWindow.on('close',()=>{
         mainWindow = null
